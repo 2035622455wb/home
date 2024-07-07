@@ -7,31 +7,31 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "http://8.137.50.145/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.163.com/#/user/home?id=1710449636"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "Best Love",
+    "link": "http://8.130.65.90:90/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "暂未添加",
+    "link": ""
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "暂未添加",
+    "link": ""
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "暂未添加",
+    "link": ""
   }
 ]
